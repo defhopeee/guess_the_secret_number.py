@@ -1,4 +1,3 @@
-# guess_the_secret_number.py
 import random
 
 secret_number = random.randint(1, 100)
